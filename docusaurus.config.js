@@ -8,14 +8,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'My Notes',
   tagline: 'Dinosaurs are cool',
-  url: '',
+  url: 'https://camilonore.github.io/my-docunotes/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
   organizationName: 'camilonore', 
-  projectName: 'My-notes', 
+  projectName: 'my-docunotes', 
+  trailingSlash: false,
 
   i18n: {
     defaultLocale: 'en',
