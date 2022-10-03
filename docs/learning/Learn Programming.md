@@ -3,7 +3,7 @@ title: Learn Programming
 description: Learn Different Programming Languages for free
 ---
 - ## [Full Stack Open 2021](https://fullstackopen.com)
-	Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! 
+	Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go!
 - ## [Microsoft | Get started with Typescript](https://docs.microsoft.com/en-us/learn/modules/typescript-get-started/)
 	Learn how TypeScript is an improvement over JavaScript for web development.
 - ## [Learn Git Branching](https://learngitbranching.js.org)
