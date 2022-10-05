@@ -9,7 +9,7 @@ const config = {
   title: 'My Notes',
   tagline: 'Dinosaurs are cool',
   url: 'https://camilonore.github.io/',
-  baseUrl: '/',
+  baseUrl: '/my-docunotes/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
