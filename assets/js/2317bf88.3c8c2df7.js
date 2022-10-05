@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_notes=self.webpackChunkmy_notes||[]).push([[703],{3299:e=>{e.exports=JSON.parse('{"title":"Learning","slug":"/category/learning","permalink":"/docs/category/learning","navigation":{"previous":{"title":"Playgrounds","permalink":"/docs/development/Playgrounds"},"next":{"title":"Books","permalink":"/docs/learning/Books"}}}')}}]);
