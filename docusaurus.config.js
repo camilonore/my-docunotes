@@ -59,13 +59,13 @@ const config = {
           },
           {
             type: 'doc',
-            docId: '/category/web_development',
+            docId: '/category/web-development',
             position: 'left',
             label: 'Web Development',
           },
           {
             type: 'doc',
-            docId: '/category/design_resources',
+            docId: '/category/design-resources',
             position: 'left',
             label: 'Desing Resources',
           },
