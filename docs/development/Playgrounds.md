@@ -23,3 +23,5 @@ description: Playgrounds
 
 - ## [Codesandbox](https://codesandbox.io/s/)
   Online code editor and prototyping tool that makes creating and sharing web apps faster.
+- ## [Readme.so](https://readme.so/es)
+	Con nuestro sencillo editor puedes personalizar y agregar rápidamente todas las secciones que necesitas para el archivo README de tu proyecto.
