@@ -1,9 +1,9 @@
 ---
-title: Electronics
-description: Electronics
+title: Electronic Tools
+description: Electronic Tools
 ---
 
-# Electronics
+# Electronic Tools
 
 - ## [Tinkercad](https://www.tinkercad.com)
 	Web app for 3D design, electronics, and coding.

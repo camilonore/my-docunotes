@@ -1,6 +1,6 @@
 ---
-title: Showcases
-description: Showcases
+title: Frontend Showcases
+description: Frontend Showcases
 ---
 
 # Showcases

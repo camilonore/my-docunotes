@@ -1,6 +1,6 @@
 ---
-title: Tools
-description: Tools
+title: Frontend Tools
+description: Frontend Tools
 ---
 
 # Tools

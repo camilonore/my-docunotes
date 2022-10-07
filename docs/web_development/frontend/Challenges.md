@@ -1,6 +1,6 @@
 ---
-title: Challenges
-description: Challenges
+title: Frontend Challenges
+description: Frontend Challenges
 ---
 
 # Challenges

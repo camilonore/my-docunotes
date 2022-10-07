@@ -1,6 +1,6 @@
 ---
-title: Animations
-description: Animations
+title: Frontend Animations
+description: Frontend Animations
 ---
 
 # Animations

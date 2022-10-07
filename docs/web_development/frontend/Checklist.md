@@ -1,6 +1,6 @@
 ---
-title: Checklist
-description: Checklist
+title: Frontend Checklist
+description: Frontend Checklist
 ---
 
 # Checklist

@@ -1,4 +1,9 @@
-# Related Websites
+---
+title: React Tools
+description: React Tools
+---
+
+# React Tools
 
 ## Hooks
 
@@ -8,6 +13,5 @@
 - ## [Usefull Hooks](https://nikgraf.github.io/react-hooks/)
   A lot of react open sourced hooks.
 
-## [Svgr](https://react-svgr.com/playground/)
-
-Playground to convert from svg to React component.
+- ## [Svgr](https://react-svgr.com/playground/)
+  Playground to convert from svg to React component.

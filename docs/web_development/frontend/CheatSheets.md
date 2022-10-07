@@ -1,6 +1,6 @@
 ---
-title: Cheat Sheets
-description: Cheat Sheets
+title: Frontend Cheat Sheets
+description: Frontend Cheat Sheets
 ---
 
 # CheatSheets
