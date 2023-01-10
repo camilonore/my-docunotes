@@ -1,8 +1,8 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const lightCodeTheme = require('prism-react-renderer/themes/github')
+const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -14,13 +14,13 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
-  organizationName: 'camilonore', 
-  projectName: 'my-docunotes', 
+  organizationName: 'camilonore',
+  projectName: 'my-docunotes',
   trailingSlash: false,
 
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en']
   },
 
   presets: [
@@ -29,16 +29,16 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: require.resolve('./sidebars.js')
         },
         blog: {
-          showReadingTime: true,
+          showReadingTime: true
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
-        },
-      }),
-    ],
+          customCss: require.resolve('./src/css/custom.css')
+        }
+      })
+    ]
   ],
 
   themeConfig:
@@ -48,52 +48,16 @@ const config = {
         title: 'My Site',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.svg'
         },
         items: [
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Intro',
-          },
-          {
-            type: 'doc',
-            docId: '/category/web-development',
-            position: 'left',
-            label: 'Web Development',
-          },
-          {
-            type: 'doc',
-            docId: '/category/design-resources',
-            position: 'left',
-            label: 'Desing Resources',
-          },
-          {
-            type: 'doc',
-            docId: '/category/robotics',
-            position: 'left',
-            label: 'Robotics',
-          },
-          {
-            type: 'doc',
-            docId: '/category/electronics',
-            position: 'left',
-            label: 'Electronics',
-          },
-          {
-            type: 'doc',
-            docId: '/category/learning',
-            position: 'left',
-            label: 'Learning',
-          },
-          {
-            type: 'doc',
-            docId: '/category/jobs',
-            position: 'left',
-            label: 'Jobs',
-          },
-        ],
+            label: 'Go to Notes!'
+          }
+        ]
       },
       footer: {
         style: 'dark',
@@ -103,44 +67,44 @@ const config = {
             items: [
               {
                 label: 'Intro',
-                to: '/docs/intro',
-              },
-            ],
+                to: '/docs/intro'
+              }
+            ]
           },
           {
             title: 'Social Networks',
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/camilonore',
+                href: 'https://github.com/camilonore'
               },
               {
                 label: 'LinkedIn',
-                href: 'https://www.linkedin.com/in/camilo-nore/',
+                href: 'https://www.linkedin.com/in/camilo-nore/'
               },
               {
                 label: 'Gmail',
-                href: 'mailto:caminore22@gmail.com',
-              },
-            ],
+                href: 'mailto:caminore22@gmail.com'
+              }
+            ]
           },
           {
             title: 'More',
             items: [
               {
                 label: 'Portfolio',
-                href: 'https://portfolio-rouge-one.vercel.app/',
-              },
-            ],
-          },
+                href: 'https://portfolio-rouge-one.vercel.app/'
+              }
+            ]
+          }
         ],
-        copyright: `Built with ❤ by Camilo Nore with Docusaurus.`,
+        copyright: `Built with ❤ by Camilo Nore with Docusaurus.`
       },
       prism: {
         theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
-      },
-    }),
-};
+        darkTheme: darkCodeTheme
+      }
+    })
+}
 
-module.exports = config;
+module.exports = config
